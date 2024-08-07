@@ -100,7 +100,7 @@
   <style>
     
     .centralizado{
-      text-align: center;
+      text-align:justify;
       
     }
   
